@@ -16,4 +16,10 @@ class Triangle
     end
   end
   
+class TriangleError
+  
+  
+  
+end
+  
 end
